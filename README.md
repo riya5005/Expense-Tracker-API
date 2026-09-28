@@ -4,13 +4,7 @@ A REST API for managing personal expenses. Users can create an account, log in s
 
 The project is built using **ASP.NET Core 8**, **Entity Framework Core**, **SQL Server**, and **JWT authentication**.
 
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
 
-![Auth](https://img.shields.io/badge/auth-JWT-black)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-EF%20Core-CC2927)
-
-![Status](https://img.shields.io/badge/status-active%20development-blue)
 
 ## Features
 
